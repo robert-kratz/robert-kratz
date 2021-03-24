@@ -1,4 +1,7 @@
-### Hi there 👋
+<!--### Hi there 👋-->
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=robert-kratz&count_private=true&theme=dark&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+
 
 <!--
 **robert-kratz/robert-kratz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
